@@ -1,1 +1,1 @@
-A simple recipe website.
+A showcase of my favorite recipes.

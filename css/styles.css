@@ -1,0 +1,37 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    width: 75vw;
+    margin: auto;
+    line-height: 150%;
+    background-color: rgb(242, 235, 220);
+    background-image: url("https://www.transparenttextures.com/patterns/whitey.png");
+}
+
+h1 {
+    font-family: "Praise", cursive;
+    font-size: 3rem;
+}
+
+h2 {
+    font-weight: 700;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.recipes-list  {
+    width: 50vw;
+    margin: auto;
+    list-style-type: none;
+}
+
+.recipes-list img:hover {
+    opacity: 0.5;
+}
+
+.title-home {
+    text-align: center;
+}
